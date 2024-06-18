@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punam2003&label=Profile%20views&color=0e75b6&style=flat" alt="punam2003" /> </p>
 
-- 🔭 **I’m 3rd BTech Student.**
+- 🔭 **I’m 3rd Year BTech Student.**
 
 - 📫 How to reach me **punamdeore1353@gmail.com**
 
